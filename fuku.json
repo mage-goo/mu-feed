@@ -1,0 +1,31 @@
+{
+    "title": "I Make Clothes for Adventurers",
+    "description": "-",
+    "cover": "https://i.imgur.com/xGzq6oc.jpg",
+    "chapters": {
+        "1": {
+            "last_updated": 0,
+            "groups": {
+                "Blooming Tea Scans": "/read/api/imgur/chapter/l9MX4Ic/"
+            }
+        },
+        "2": {
+            "last_updated": 0,
+            "groups": {
+                "Blooming Tea Scans": "/read/api/imgur/chapter/PbAmgvR/"
+            }
+        },
+        "3": {
+            "last_updated": 0,
+            "groups": {
+                "Blooming Tea Scans": "/read/api/imgur/chapter/SNrvthF/"
+            }
+        },
+        "4": {
+            "last_updated": 0,
+            "groups": {
+                "Blooming Tea Scans": "/read/api/imgur/chapter/0O5ZICv/"
+            }
+        }
+    }
+}
