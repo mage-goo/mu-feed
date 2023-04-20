@@ -1,0 +1,31 @@
+{
+    "title": "Hamefura Bluray Special Manga",
+    "description": "-",
+    "cover": "https://i.imgur.com/3jLlKgx.jpeg",
+    "chapters": {
+        "1": {
+            "last_updated": 0,
+            "groups": {
+                "Goddess Scans": "/read/api/imgur/chapter/1UhaSlR/"
+            }
+        },
+        "2": {
+            "last_updated": 0,
+            "groups": {
+                "Goddess Scans": "/read/api/imgur/chapter/TOO29aS/"
+            }
+        },
+        "3": {
+            "last_updated": 0,
+            "groups": {
+                "Goddess Scans": "/read/api/imgur/chapter/L5g7BGe/"
+            }
+        },
+        "4": {
+            "last_updated": 0,
+            "groups": {
+                "Goddess Scans": "/read/api/imgur/chapter/cFupZie/"
+            }
+        }
+    }
+}
